@@ -1,1 +1,1 @@
-# studyRatio
+# Проекты для Ratio
